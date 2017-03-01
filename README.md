@@ -14,37 +14,38 @@ $ sudo pip install pybluez
 ที่มา:   
 https://community.home-assistant.io/t/raspberry-pi-3-bluetooth/951  
   
-  
+<br>  
 2.Android Appinventor 2  
 ----------------------------------  
 Part1: Basic Bluetooth communications using App Inventor  
---BTServer.aia   
+BTServer.aia   
  http://appinventor.pevest.com/source/tutorials/BTServer1.aia  
---BTClient.aia  
+BTClient.aia  
  http://appinventor.pevest.com/source/tutorials/BTClient1.aia  
   
 ที่มา:    
 http://appinventor.pevest.com/?p=520   
 
+<br>
 3.pybluez programming  
 ----------------------------------  
-Chapter 3. Bluetooth programming with Python - PyBluez  
+Tutorial Bluetooth programming with Python - PyBluez  
 http://people.csail.mit.edu/albert/bluez-intro/c212.html  
-  
-4.bluez-tools  
-----------------------------------  
-tutorial part1,2  
-https://adityakadambi.wordpress.com/2009/09/18/bluez-tools-and-programming-part-i/   
-https://adityakadambi.wordpress.com/2009/10/02/bluez-tools-and-programming-part-ii/  
-
-
-5.Misc Test  
------  
+<br>
+<br>
 aquaPi - python bluetooth rfcomm server for aquarium control  
 blog:  
 http://blog.davidvassallo.me/2014/05/11/android-linux-raspberry-pi-bluetooth-communication/  
 source:  
 https://gist.github.com/dvas0004/8209b67ff556cb18651d/  
+
+<br>
+4.bluez-tools  
+----------------------------------  
+tutorial part1  
+https://adityakadambi.wordpress.com/2009/09/18/bluez-tools-and-programming-part-i/   
+tutorial part2  
+https://adityakadambi.wordpress.com/2009/10/02/bluez-tools-and-programming-part-ii/  
 
 
 <br><br>  
