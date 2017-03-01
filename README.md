@@ -36,14 +36,28 @@ http://people.csail.mit.edu/albert/bluez-intro/c212.html
 tutorial part1,2
 https://adityakadambi.wordpress.com/2009/09/18/bluez-tools-and-programming-part-i/   
 https://adityakadambi.wordpress.com/2009/10/02/bluez-tools-and-programming-part-ii/  
-  
-  
-  
-  
-A1. Reference
+
+
+5.Misc Test  
+-----  
+aquaPi - python bluetooth rfcomm server for aquarium control  
+blog: http://blog.davidvassallo.me/2014/05/11/android-linux-raspberry-pi-bluetooth-communication/  
+source: https://gist.github.com/dvas0004/8209b67ff556cb18651d/  
+
+
+<br><br>  
+A1. Misc Installation Guide  
+----
+Everything You Need to Set Up Bluetooth on the Raspberry Pi 3  
+http://lifehacker.com/everything-you-need-to-set-up-bluetooth-on-the-raspberr-1768482065  
+
+
+<br><br>  
+A2. Reference
 ------------------------------------  
 ==github/publuez  
 https://github.com/karulis/pybluez  
+https://github.com/karulis/pybluez/tree/master/examples/simple  
   
 ==List of Bluetooth Protocol Wiki  
 https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols#Radio_frequency_communication_.28RFCOMM.29  
