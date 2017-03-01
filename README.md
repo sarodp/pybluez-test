@@ -30,13 +30,25 @@ http://appinventor.pevest.com/?p=520
 ----------------------------------  
 Chapter 3. Bluetooth programming with Python - PyBluez  
 http://people.csail.mit.edu/albert/bluez-intro/c212.html  
-
-
-A1.List of Bluetooth Protocol Wiki  
+  
+4.bluez-tools  
+----------------------------------  
+tutorial part1,2
+https://adityakadambi.wordpress.com/2009/09/18/bluez-tools-and-programming-part-i/   
+https://adityakadambi.wordpress.com/2009/10/02/bluez-tools-and-programming-part-ii/  
+  
+  
+  
+  
+A1. Reference
 ------------------------------------  
+==github/publuez  
+https://github.com/karulis/pybluez  
+  
+==List of Bluetooth Protocol Wiki  
 https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols#Radio_frequency_communication_.28RFCOMM.29  
-
-Radio frequency communication (RFCOMM)  
+  
+==Radio frequency communication (RFCOMM)  
 The Bluetooth protocol RFCOMM is a simple set of transport protocols, made on top of the L2CAP protocol, providing emulated RS-232 serial ports (up to sixty simultaneous connections to a Bluetooth device at a time). The protocol is based on the ETSI standard TS 07.10.  
   
 RFCOMM is sometimes called serial port emulation. The Bluetooth serial port profile is based on this protocol.  
