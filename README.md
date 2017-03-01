@@ -55,7 +55,10 @@ A1. Misc Installation Guide
 ----  
 Everything You Need to Set Up Bluetooth on the Raspberry Pi 3  
 http://lifehacker.com/everything-you-need-to-set-up-bluetooth-on-the-raspberr-1768482065  
-
+  
+bluetoothctl - Bluetooth Manager - Linux CLI  
+https://www.youtube.com/watch?v=CB1E4Ir3AV4&list=FLzkCOg-3Ig6TM7giLiI8TCw&index=1&t=12s  
+  
 
 <br><br>  
 A2. Reference
@@ -63,6 +66,9 @@ A2. Reference
 ==github/publuez  
 https://github.com/karulis/pybluez  
 https://github.com/karulis/pybluez/tree/master/examples/simple  
+  
+==Using BlueZ in the Automotive World - Gustavo Padovan, Collabora Ltd  
+https://www.youtube.com/watch?v=FozB5m-8Ogg&list=FLzkCOg-3Ig6TM7giLiI8TCw&index=2  
   
 ==List of Bluetooth Protocol Wiki  
 https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols#Radio_frequency_communication_.28RFCOMM.29  
