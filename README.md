@@ -34,6 +34,8 @@ http://people.csail.mit.edu/albert/bluez-intro/c212.html
 <br>
 <br>
 aquaPi - python bluetooth rfcomm server for aquarium control  
+youtube:  
+https://www.youtube.com/watch?v=hvykOO73LbM  
 blog:  
 http://blog.davidvassallo.me/2014/05/11/android-linux-raspberry-pi-bluetooth-communication/  
 source:  
