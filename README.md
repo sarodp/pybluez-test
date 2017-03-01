@@ -8,7 +8,7 @@ $ sudo apt-get upgrade
 $  
 $ sudo apt-get install python-pip python-dev ipython  
 $  
-$ sudo apt-get install bluetooth libbluetooth-dev bluez  
+$ sudo apt-get install bluetooth libbluetooth-dev bluez bluez-tools  
 $ sudo pip install pybluez  
   
 ที่มา:   
