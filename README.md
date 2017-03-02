@@ -49,15 +49,18 @@ https://adityakadambi.wordpress.com/2009/09/18/bluez-tools-and-programming-part-
 tutorial part2  
 https://adityakadambi.wordpress.com/2009/10/02/bluez-tools-and-programming-part-ii/  
 
+5.bluetoothctl  
+----  
+bluetoothctl - Bluetooth Manager - Linux CLI  
+https://www.youtube.com/watch?v=CB1E4Ir3AV4&list=FLzkCOg-3Ig6TM7giLiI8TCw&index=1&t=12s  
+  
+
 
 <br><br>  
 A1. Misc Installation Guide  
 ----  
 Everything You Need to Set Up Bluetooth on the Raspberry Pi 3  
 http://lifehacker.com/everything-you-need-to-set-up-bluetooth-on-the-raspberr-1768482065  
-  
-bluetoothctl - Bluetooth Manager - Linux CLI  
-https://www.youtube.com/watch?v=CB1E4Ir3AV4&list=FLzkCOg-3Ig6TM7giLiI8TCw&index=1&t=12s  
   
 
 <br><br>  
