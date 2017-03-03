@@ -1,8 +1,7 @@
 # pybluez-test
 Test bluez and pybluez with RPi 3  
 
-1.ติดตั้ง bluez, pybluez  
-----------------------------------  
+1. ติดตั้ง bluez, pybluez  
 `$ sudo apt-get update`    
 `$ sudo apt-get upgrade`    
 $  
@@ -16,8 +15,7 @@ $
 https://community.home-assistant.io/t/raspberry-pi-3-bluetooth/951  
   
 <br>  
-2.Android Appinventor 2  
-----------------------------------  
+2. Adroid Appinventor 2  
 Part1: Basic Bluetooth communications using App Inventor  
 BTServer.aia   
  http://appinventor.pevest.com/source/tutorials/BTServer1.aia  
@@ -28,8 +26,7 @@ BTClient.aia
 http://appinventor.pevest.com/?p=520   
 
 <br>
-3.pybluez programming  
-----------------------------------  
+3. pybluez programming  
 Tutorial Bluetooth programming with Python - PyBluez  
 http://people.csail.mit.edu/albert/bluez-intro/c212.html  
 <br>
@@ -43,42 +40,38 @@ source:
 https://gist.github.com/dvas0004/8209b67ff556cb18651d/  
 
 <br>
-4.bluez-tools  
-----------------------------------  
+4. bluez-tools  
 tutorial part1  
 https://adityakadambi.wordpress.com/2009/09/18/bluez-tools-and-programming-part-i/   
 tutorial part2  
 https://adityakadambi.wordpress.com/2009/10/02/bluez-tools-and-programming-part-ii/  
 
-5.bluetoothctl  
-----  
+5. bluetoothctl  
 bluetoothctl - Bluetooth Manager - Linux CLI  
 https://www.youtube.com/watch?v=CB1E4Ir3AV4&list=FLzkCOg-3Ig6TM7giLiI8TCw&index=1&t=12s  
   
 
 
 <br><br>  
-A1. Misc Installation Guide  
-----  
+98. Misc Installation Guide   
 Everything You Need to Set Up Bluetooth on the Raspberry Pi 3  
 http://lifehacker.com/everything-you-need-to-set-up-bluetooth-on-the-raspberr-1768482065  
   
 
 <br><br>  
-A2. Reference
-----  
-==github/publuez  
+99. Reference
+* github/publuez  
 https://github.com/karulis/pybluez  
 https://github.com/karulis/pybluez/tree/master/examples/simple  
-  
-==Using BlueZ in the Automotive World - Gustavo Padovan, Collabora Ltd  
+
+*  Using BlueZ in the Automotive World - Gustavo Padovan, Collabora Ltd  
 https://www.youtube.com/watch?v=FozB5m-8Ogg&list=FLzkCOg-3Ig6TM7giLiI8TCw&index=2  
   
-==List of Bluetooth Protocol Wiki  
+* List of Bluetooth Protocol Wiki  
 https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols#Radio_frequency_communication_.28RFCOMM.29  
 
 <br>
-==RFCOMM  
+* RFCOMM  
 Radio frequency communication  
   
 The Bluetooth protocol RFCOMM is a simple set of transport protocols
@@ -101,6 +94,3 @@ Additionally, applications that used a serial port
 to communicate can be quickly ported to use RFCOMM
   
 In the protocol stack, RFCOMM is bound to L2CAP.  
-
-
-
