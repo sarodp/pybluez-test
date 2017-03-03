@@ -1,15 +1,18 @@
 # pybluez-test
 Test bluez and pybluez with RPi 3  
 
-1. ติดตั้ง bluez, pybluez  
-`$ sudo apt-get update`    
-`$ sudo apt-get upgrade`    
-`$`  
-`$ sudo apt-get install python-pip python-dev ipython`  
-`$`  
-`$ sudo apt-get install bluetooth libbluetooth-dev bluez bluez-tools`  
-`$ sudo pip install pybluez`  
-`$`    
+1. ติดตั้ง bluez, pybluez   
+```shell  
+$  
+$ sudo apt-get update    
+$ sudo apt-get upgrade    
+$  
+$ sudo apt-get install python-pip python-dev ipython  
+$  
+$ sudo apt-get install bluetooth libbluetooth-dev bluez bluez-tools  
+$ sudo pip install pybluez  
+$    
+```  
   
 ที่มา:   
 https://community.home-assistant.io/t/raspberry-pi-3-bluetooth/951  
