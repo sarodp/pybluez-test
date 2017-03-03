@@ -89,7 +89,7 @@ It provides emulated RS-232 serial ports
 (up to sixty simultaneous connections to a Bluetooth device at a time).  
   
 The protocol is based on the ETSI standard TS 07.10.  
-  
+```    
 RFCOMM is sometimes called serial port emulation.  
 The Bluetooth serial port profile is based on this protocol.  
   
@@ -103,3 +103,4 @@ Additionally, applications that used a serial port
 to communicate can be quickly ported to use RFCOMM
   
 In the protocol stack, RFCOMM is bound to L2CAP.  
+```  
