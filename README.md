@@ -2,8 +2,7 @@
 Test bluez and pybluez with RPi 3  
 
 1. ติดตั้ง bluez, pybluez   
-```shell  
-$  
+```shell
 $ sudo apt-get update    
 $ sudo apt-get upgrade    
 $  
