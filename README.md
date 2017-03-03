@@ -1,7 +1,8 @@
 # pybluez-test
 Test bluez and pybluez with RPi 3  
 
-1. ติดตั้ง bluez, pybluez   
+1. ติดตั้ง bluez, pybluez 
+---- 
 ```shell
 $ sudo apt-get update    
 $ sudo apt-get upgrade    
@@ -18,10 +19,11 @@ https://community.home-assistant.io/t/raspberry-pi-3-bluetooth/951
   
 <br>  
 2. Adroid Appinventor 2  
+----  
 Part1: Basic Bluetooth communications using App Inventor  
-BTServer.aia   
+* BTServer.aia   
  http://appinventor.pevest.com/source/tutorials/BTServer1.aia  
-BTClient.aia  
+* BTClient.aia  
  http://appinventor.pevest.com/source/tutorials/BTClient1.aia  
   
 ที่มา:    
@@ -29,26 +31,29 @@ http://appinventor.pevest.com/?p=520
 
 <br>
 3. pybluez programming  
+----  
 Tutorial Bluetooth programming with Python - PyBluez  
 http://people.csail.mit.edu/albert/bluez-intro/c212.html  
 <br>
 <br>
 aquaPi - python bluetooth rfcomm server for aquarium control  
-youtube:  
+* youtube:  
 https://www.youtube.com/watch?v=hvykOO73LbM  
-blog:  
+* blog:  
 http://blog.davidvassallo.me/2014/05/11/android-linux-raspberry-pi-bluetooth-communication/  
-source:  
+* source:  
 https://gist.github.com/dvas0004/8209b67ff556cb18651d/  
 
 <br>
 4. bluez-tools  
-tutorial part1  
+----  
+* tutorial part1  
 https://adityakadambi.wordpress.com/2009/09/18/bluez-tools-and-programming-part-i/   
-tutorial part2  
+* tutorial part2  
 https://adityakadambi.wordpress.com/2009/10/02/bluez-tools-and-programming-part-ii/  
 
 5. bluetoothctl  
+---- 
 bluetoothctl - Bluetooth Manager - Linux CLI  
 https://www.youtube.com/watch?v=CB1E4Ir3AV4&list=FLzkCOg-3Ig6TM7giLiI8TCw&index=1&t=12s  
   
@@ -56,12 +61,14 @@ https://www.youtube.com/watch?v=CB1E4Ir3AV4&list=FLzkCOg-3Ig6TM7giLiI8TCw&index=
 
 <br><br>  
 98. Misc Installation Guide   
-Everything You Need to Set Up Bluetooth on the Raspberry Pi 3  
+----  
+* Everything You Need to Set Up Bluetooth on the Raspberry Pi 3  
 http://lifehacker.com/everything-you-need-to-set-up-bluetooth-on-the-raspberr-1768482065  
   
 
 <br><br>  
-99. Reference
+99. Reference  
+----
 * github/publuez  
 https://github.com/karulis/pybluez  
 https://github.com/karulis/pybluez/tree/master/examples/simple  
