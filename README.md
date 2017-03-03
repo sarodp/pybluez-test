@@ -82,14 +82,14 @@ https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols#Radio_frequency_commun
 <br>
 * RFCOMM  
 Radio frequency communication  
-  
+```  
 The Bluetooth protocol RFCOMM is a simple set of transport protocols
 It is made on top of the L2CAP protocol.   
 It provides emulated RS-232 serial ports  
 (up to sixty simultaneous connections to a Bluetooth device at a time).  
   
 The protocol is based on the ETSI standard TS 07.10.  
-```    
+    
 RFCOMM is sometimes called serial port emulation.  
 The Bluetooth serial port profile is based on this protocol.  
   
